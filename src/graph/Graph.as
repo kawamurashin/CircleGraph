@@ -32,10 +32,7 @@ public class Graph extends Sprite{
     {
 
     }
-    public function draw():void
-    {
 
-    }
 
     private function init(event:Event):void {
         removeEventListener(Event.ADDED_TO_STAGE,init);

@@ -16,9 +16,8 @@ public class CircleGraph extends Graph{
         super.layout();
 
     }
-    override public function draw():void
+    public function draw():void
     {
-        super.draw();
         var i:int = 0;
         var n:uint;
         var theta:Number;
