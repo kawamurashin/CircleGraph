@@ -10,12 +10,12 @@ import flash.display.Sprite;
 import flash.events.Event;
 import flash.text.TextField;
 
-import graph.TestCircleGraph;
+import graph.CircleGraphManager;
 
 import mx.core.FlexTextField;
 
 public class ViewManager extends Sprite{
-    private var circle:TestCircleGraph;
+    private var circle:CircleGraphManager;
     public function ViewManager() {
         if(stage)init(null);
         else addEventListener(Event.ADDED_TO_STAGE,init);
@@ -30,7 +30,7 @@ public class ViewManager extends Sprite{
     private function layout():void {
 
 
-        circle = new TestCircleGraph();
+        circle = new CircleGraphManager();
         addChild(circle);
 
 

@@ -2,22 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2374f1ad-4c5c-4dad-b12f-309d55629c2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/CircleGraph.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/Graph.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/TestCircleGraph.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.as" afterPath="$PROJECT_DIR$/src/Main.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/graph/TestCircleGraph.as" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ViewManager.as" afterPath="$PROJECT_DIR$/src/ViewManager.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CircleGraph.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406426066521" ignored="false" />
-    <file path="/fragment.js2" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406423518421" ignored="false" />
-    <file path="/ViewManager.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406426720105" ignored="false" />
-    <file path="/Dummy.txt" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406426003172" ignored="false" />
-    <file path="/Graph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406427158243" ignored="false" />
+    <file path="/Main.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432261696" ignored="false" />
+    <file path="/fragment.js2" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432613277" ignored="false" />
+    <file path="/ViewManager.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432349761" ignored="false" />
+    <file path="/Dummy.txt" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432167277" ignored="false" />
+    <file path="/Graph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432543413" ignored="false" />
     <file path="/CircleGraph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406428391927" ignored="false" />
     <file path="/TestCircleGraph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406427949366" ignored="false" />
+    <file path="$PROJECT_DIR$/../BarGraph/src/Main.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432326226" ignored="false" />
+    <file path="$PROJECT_DIR$/../BarGraph/src/ViewManager.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432369810" ignored="false" />
+    <file path="$PROJECT_DIR$/../BarGraph/src/graph/Graph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432573821" ignored="false" />
+    <file path="$PROJECT_DIR$/../BarGraph/src/graph/BarGraph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432631526" ignored="false" />
+    <file path="$PROJECT_DIR$/../BarGraph/src/graph/BarGraphManager.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432620786" ignored="false" />
+    <file path="/BarGraph.as" changelist="2374f1ad-4c5c-4dad-b12f-309d55629c2f" time="1406432630544" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,6 +71,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -82,9 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
             <state line="28" column="127" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#11#39#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,18 +93,9 @@
       <file leaf-file-name="ViewManager.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="5" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCircleGraph.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/TestCircleGraph.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="98" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.0">
+            <state line="37" column="52" selection-start="783" selection-end="785" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#169#197#0" expanded="true" />
+                <element signature="e#163#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,11 +110,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Graph.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Graph.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="67" selection-start="659" selection-end="659" vertical-scroll-proportion="0.48018292">
+            <state line="26" column="0" selection-start="620" selection-end="757" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircleGraphManager.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/graph/CircleGraphManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="38" selection-start="549" selection-end="549" vertical-scroll-proportion="0.25629497">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#169#197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,17 +150,18 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/Sprite/ViewManager.as" />
-        <option value="$PROJECT_DIR$/src/ViewManager.as" />
         <option value="$PROJECT_DIR$/src/Main.as" />
-        <option value="$PROJECT_DIR$/src/graph/Graph.as" />
         <option value="$PROJECT_DIR$/src/graph/TestCircleGraph.as" />
         <option value="$PROJECT_DIR$/src/graph/CircleGraph.as" />
+        <option value="$PROJECT_DIR$/src/graph/Graph.as" />
+        <option value="$PROJECT_DIR$/src/graph/CircleGraphManager.as" />
+        <option value="$PROJECT_DIR$/src/ViewManager.as" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="469" />
-    <option name="y" value="177" />
+    <option name="x" value="1051" />
+    <option name="y" value="63" />
     <option name="width" value="2091" />
     <option name="height" value="1260" />
   </component>
@@ -188,7 +193,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,7 +246,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,8 +264,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
@@ -297,19 +302,6 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -336,6 +328,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -481,7 +486,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="177" width="2091" height="1260" extended-state="0" />
+    <frame x="1051" y="63" width="2091" height="1260" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -579,24 +584,45 @@
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="5" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#11#39#0" expanded="true" />
+            <element signature="e#163#191#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/CircleGraph.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="27" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="67" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="8" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/TestCircleGraph.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="99" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#169#197#0" expanded="true" />
+            <element signature="e#163#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,24 +644,13 @@
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#11#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="127" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#11#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="5" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -647,19 +662,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/TestCircleGraph.as">
+    <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="98" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.0">
+        <state line="26" column="0" selection-start="620" selection-end="757" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="52" selection-start="783" selection-end="785" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#169#197#0" expanded="true" />
+            <element signature="e#163#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
+    <entry file="file://$PROJECT_DIR$/src/graph/CircleGraphManager.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="67" selection-start="659" selection-end="659" vertical-scroll-proportion="0.48018292">
-          <folding />
+        <state line="19" column="38" selection-start="549" selection-end="549" vertical-scroll-proportion="0.25629497">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#169#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

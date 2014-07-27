@@ -12,12 +12,12 @@ import flash.events.TimerEvent;
 import flash.text.TextField;
 import flash.utils.Timer;
 
-public class TestCircleGraph extends Sprite{
+public class CircleGraphManager extends Sprite{
     private var targetVolume:Number = 100;
     private var vVolume:Number = 0;
     private var circleGraph:CircleGraph;
     private var tf:TextField;
-    public function TestCircleGraph() {
+    public function CircleGraphManager() {
         if(stage)init(null);
         else addEventListener(Event.ADDED_TO_STAGE, init);
     }
